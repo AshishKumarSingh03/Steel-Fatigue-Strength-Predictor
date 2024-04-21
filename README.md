@@ -2,8 +2,9 @@
 As a part of my Degree project, a fatigue strength dataset from the National Institute of Materials Science (NIMS), MatNavi, Japan was extracted. Complex Statistical models and machine learning models are applied to this dataset to fit the dataset without the loss of generality.
 
 The dataset consists of just 437 data points and thus requires an Ensemble Deep Learning Model. This model helps create a general purpose Fatigue Strength Calculator which can be used by experimentalists and Material Scientists to predict fatigue strength values before creating certain strain of steel.
-PS: A small recommendation of using low-carbon![image](https://github.com/AshishKumarSingh03/Steel-Fatigue-Strength-Predictor/assets/116654089/87546d51-4817-4e10-b46f-649481746b0e)
- steel is recommended as the tiny dataset mostly consists of low-carbon steels.
+PS: A small recommendation of using low-carbon steel is recommended as the tiny dataset mostly consists of low-carbon steels.
+
+![image](https://github.com/AshishKumarSingh03/Steel-Fatigue-Strength-Predictor/assets/116654089/87546d51-4817-4e10-b46f-649481746b0e)
 
 The Heroku folder consists of the format in which files should be saved and then pushed to git to upload the model onto the backend of a webpage. The models are supposed to be in the main folder with the HTML template for the webpage being in the 'templates' folder.
 
